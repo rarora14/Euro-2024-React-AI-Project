@@ -1,0 +1,59 @@
+
+.rising-stars-container {
+  background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.stars-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.stars-header h2 {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+.stars-header p {
+  font-size: 14px;
+  color: #666;
+}
+
+.rising-stars-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* 5 columns */
+  gap: 20px;
+}
+
+.star-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.star-image {
+  width: 100%;
+  max-width: 300px; /* Adjust width as needed */
+  height: 300px; /* Fixed height to maintain aspect ratio */
+  /* COULD DO Cover instead of contain, woould look better but image pixel issue*/
+  object-fit: cover; /* Ensure the image covers the fixed height and maintains aspect ratio */
+  border-radius: 8px; /* Rounded corners */
+}
+
+.star-details {
+  margin-top: 10px;
+}
+
+.caption {
+  font-size: 14px;
+  color: #444;
+}

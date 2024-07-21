@@ -1,0 +1,1402 @@
+[
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Euro 2024",
+        "description": "Alex Scott presents highlights of England\u2019s semi-final against the Netherlands.",
+        "url": "https://www.bbc.co.uk/iplayer/episode/m0020zpx/euro-2024-semifinals-highlights-10072024",
+        "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0j6l4ph.jpg",
+        "publishedAt": "2024-07-10T22:20:50Z",
+        "content": "Alex Scott presents highlights of Englands semi-final against the Netherlands as Gareth Southgates side look to reach back-to-back European Championship finals.\u00a0More",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Csoboth scores for Hungary in 100th minute to break Scottish hearts",
+        "description": "Watch as Kevin Csoboth scores after a goalless 90 minutes to knock out Scotland in their final group game at Euro 2024 in Stuttgart.at Euro 2024 in Stuttgart.",
+        "url": "https://www.bbc.com/sport/football/videos/crggg21v6qeo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6430/live/9e4dd300-31a5-11ef-90be-b75b34b0bbb2.jpg",
+        "publishedAt": "2024-06-23T21:18:52Z",
+        "content": "Watch as Hungary's Kevin Csoboth scores after a goalless 90 minutes to knock out Scotland in their final group game at Euro 2024 in Stuttgart.at Euro 2024 in Stuttgart.\r\nMATCH REPORT: Scotland v Hung\u2026 [+31 chars]",
+        "sentiment": -0.2
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "BBC Sport",
+        "title": "Rate the players in Ukraine v Belgium at Euro 2024",
+        "description": "Rate the Ukraine and Belgium players out of 10 below and come back 30 minutes after full-time to see the final ratings.",
+        "url": "https://www.bbc.com/sport/football/articles/cq55x23rq4zo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/8f45/live/83b4ca60-33dc-11ef-b6b5-531109ec73f6.jpg",
+        "publishedAt": "2024-06-26T17:55:03Z",
+        "content": "Ukraine are out of Euro 2024 after a 0-0 draw with Belgium in their final Group E game - a result which meant Kevin de Bruyne's team reached the last 16.\r\nYou can rate the players out of 10 below and\u2026 [+62 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "England fans' weird and wonderful road to Euro 2024 final",
+        "description": "From celebrating with the Killers to renaming street signs, the Euros has been full of unique fan moments.",
+        "url": "https://www.bbc.com/news/articles/ckmg5l3y5v8o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d418/live/34e7e8c0-4036-11ef-b74c-bb483a802c97.jpg",
+        "publishedAt": "2024-07-13T03:13:12Z",
+        "content": "By\u00a0Tim Dodd,\u00a0BBC News, England\r\nThe England celebrations were shown on a big screen at The Killers' O2 gig on Wednesday\r\nEngland have done it again - they've made it to a Euros final. Facing Spain on\u2026 [+7331 chars]",
+        "sentiment": 0.3625
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Highlights: Turkey knock out Austria to reach last eight",
+        "description": "Turkey knock out Ralf Rangnick's Austria to progress to the Euro 2024 quarter-finals, where they will face Netherlands.",
+        "url": "https://www.bbc.com/sport/football/videos/c6p2w5x6xqwo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c2bf/live/b470ba10-38b4-11ef-bdc5-41d7421c2adf.jpg",
+        "publishedAt": "2024-07-02T20:55:26Z",
+        "content": "Turkey beat Ralf Rangnick's Austria 2-1 to progress to the Euro 2024 quarter-finals, where they will face the Netherlands.\r\nMATCH REPORT: Austria 1-2 Turkey\r\nAvailable to UK users only.",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Highlights: Romania and Slovakia reach last 16 in entertaining draw",
+        "description": "Watch highlights as both Romania and Slovakia progress to the Euro 2024 knockout stages after an entertaining Group E draw.",
+        "url": "https://www.bbc.com/sport/football/videos/cp99v9m2xrdo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4955/live/1284b8b0-33e5-11ef-bdc5-41d7421c2adf.jpg",
+        "publishedAt": "2024-06-26T18:09:11Z",
+        "content": "Watch highlights as both Romania and Slovakia progress to the Euro 2024 knockout stages after an entertaining Group E draw.\r\nMATCH REPORT: Slovakia 1-1 Romania\r\nAvailable to UK users only.",
+        "sentiment": 0.5
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "BBC Sport",
+        "title": "Romania v Netherlands player rater",
+        "description": "Rate the players from the Euro 2024 last-16 tie between Romania and the Netherlands.",
+        "url": "https://www.bbc.com/sport/football/articles/c4ngez01nvyo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/3c90/live/6eb79ce0-3879-11ef-a044-9d4367d5b599.jpg",
+        "publishedAt": "2024-07-02T16:00:42Z",
+        "content": "The Netherlands beat Romania 3-0 to reach the Euro 2024 quarter-finals.\r\nYou can rate the players out of 10 below and come back 30 minutes after full-time to see the final ratings",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Highlights: Spain beat England with late goal to win Euro 2024",
+        "description": "Watch highlights as Spain win Euro 2024 after beating England 2-1 in Berlin.",
+        "url": "https://www.bbc.com/sport/football/videos/c897y4yj7lxo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c0e4/live/37c88a00-4224-11ef-9e1c-3b4a473456a6.jpg",
+        "publishedAt": "2024-07-14T21:04:14Z",
+        "content": "Watch highlights as Spain win Euro 2024 after beating England 2-1 in Berlin.\r\nREAD MORE: Spain 2-1 England\r\nAvailable to UK users only.",
+        "sentiment": 0.8
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "'Stay calm and enjoy the pubs' - Pickford's message to England fans",
+        "description": "Jordan Pickford discusses England's first two Euro 2024 performances and gives a message to the fans.",
+        "url": "https://www.bbc.com/sport/football/videos/cd11wxwxdnwo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b3f9/live/079aa480-314e-11ef-a044-9d4367d5b599.jpg",
+        "publishedAt": "2024-06-23T11:58:04Z",
+        "content": "'Stay calm and enjoy the pubs' - Pickford's message to England fans. Video, 00:02:14'Stay calm and enjoy the pubs' - Pickford's message to England fans",
+        "sentiment": 0.25
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "How Euro 2024 final is dividing family loyalties",
+        "description": "A Coventry couple are among those supporting different teams when England plays Spain on Sunday.",
+        "url": "https://www.bbc.com/news/articles/c99w1wnj0j7o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3322/live/432b82d0-4049-11ef-8af1-7d28c9a79969.jpg",
+        "publishedAt": "2024-07-13T06:39:03Z",
+        "content": "By\u00a0Shehnaz Khan,\u00a0BBC News, West Midlands\r\nTrevor Baker, wife Monika Mateo and their son will be supporting different teams in the Euro 2024 final\r\nA couple from Coventry are among the households with\u2026 [+3043 chars]",
+        "sentiment": 0.125
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "Emlyn Begley",
+        "title": "From Weston to Euro 2024 final - Watkins' 'unbelievable' moment",
+        "description": "Aston Villa striker Ollie Watkins says he waited weeks for his chance - and he took it with a late winner to send England to the Euro 2024 final.",
+        "url": "https://www.bbc.com/sport/football/articles/c134enzzg26o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/5984/live/aa40efe0-3f0a-11ef-96a8-e710c6bfc866.jpg",
+        "publishedAt": "2024-07-10T22:53:09Z",
+        "content": "Watkins has kicked on at Villa with 70 goals in 169 games, hitting 19 Premier League goals last season to take his club into the Champions League.\r\nDean Smith, who managed him at Brentford and Villa,\u2026 [+1297 chars]",
+        "sentiment": -0.15
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "Adam Millington",
+        "title": "'Unusual environment' - Southgate on cups thrown at him",
+        "description": "England fans' reactions to the Three Lions' performances at Euro 2024 are \"creating an unusual environment\", says manager Gareth Southgate.",
+        "url": "https://www.bbc.com/sport/football/articles/cw00y6x3j07o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/824c/live/b01814f0-333b-11ef-90be-b75b34b0bbb2.jpg",
+        "publishedAt": "2024-06-25T22:26:55Z",
+        "content": "England fans' reactions to the team's performances at Euro 2024 are \"creating an unusual environment\", says manager Gareth Southgate.\r\nHis side finished top of Group C on Tuesday after a goalless dra\u2026 [+1010 chars]",
+        "sentiment": 0.2
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "BBC Sport",
+        "title": "Uefa investigate Jude Bellingham over gesture",
+        "description": "Uefa are investigating England midfielder Jude Bellingham after he made a gesture following the win over Slovakia at Euro 2024.",
+        "url": "https://www.bbc.com/sport/football/articles/cyj4n9d9yjno",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+        "publishedAt": "2024-07-01T14:11:08Z",
+        "content": "Uefa is investigating a gesture made by England midfielder Jude Bellingham after he scored a late equaliser against Slovakia at Euro 2024 on Sunday.\r\nEuropean football's governing body says Bellingha\u2026 [+429 chars]",
+        "sentiment": 0.4
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "BBC Sport",
+        "title": "Wharton 'ready' to fill Phillips role for England",
+        "description": "Adam Wharton says he can be Kalvin Phillips' replacement in Gareth Southgate's England midfield at Euro 2024.",
+        "url": "https://www.bbc.com/sport/football/articles/cy00lgx4dkno",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/bae7/live/e2403dd0-30cb-11ef-86d7-c9678e9e17d0.jpg",
+        "publishedAt": "2024-06-22T21:46:23Z",
+        "content": "Adam Wharton says he can be Kalvin Phillips' replacement in Gareth Southgate's England midfield at Euro 2024.\r\nRight-back Trent Alexander-Arnold has started England's two group games in midfield, a m\u2026 [+1642 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "BBC Sport",
+        "title": "Foden 'temporarily' leaves England camp for family reasons",
+        "description": "England midfielder Phil Foden \"temporarily\" leaves the Three Lions' Euro 2024 camp and returns to the UK for family reasons.",
+        "url": "https://www.bbc.com/sport/football/articles/cy779zdr2yro",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+        "publishedAt": "2024-06-26T14:52:11Z",
+        "content": "England midfielder Phil Foden has \"temporarily\" left the Three Lions' Euro 2024 camp in Germany and returned to the UK.\r\nIn a statement the Football Association said the Manchester City player needed\u2026 [+420 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Highlights: Austria top Group D as they beat Netherlands in five-goal thriller",
+        "description": "Watch highlights as Austria beat Netherlands and advance to the last 16 of Euro 2024 at the Olympiastadion Berlin.",
+        "url": "https://www.bbc.com/sport/football/videos/c4nngmv9np3o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c942/live/7b46f250-331d-11ef-bdc5-41d7421c2adf.jpg",
+        "publishedAt": "2024-06-25T18:07:57Z",
+        "content": "Watch highlights as Austria beat Netherlands 3-2 and advance to the last 16 of Euro 2024 as winners of group D at the Olympiastadion Berlin.\r\nREAD MORE: Netherlands 2-3 Austria\r\nAvailable to UK users\u2026 [+5 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Spain take the lead thanks to Olmo's deflected effort",
+        "description": "Watch as Dani Olmo's deflected effort gives Spain the lead during their Euro 2024 semi-final against France.",
+        "url": "https://www.bbc.com/sport/football/videos/c250x8g9e82o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/aaab/live/73eef250-3e2b-11ef-b74c-bb483a802c97.jpg",
+        "publishedAt": "2024-07-09T19:43:16Z",
+        "content": "Watch as Dani Olmo's deflected effort gives Spain the lead during their Euro 2024 semi-final against France. \r\nFOLLOW LIVE: Spain v France \r\nAvailable to UK users only.",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Oyarzabal gives Spain late lead in final",
+        "description": "Spain substitute Mikel Oyarzabal scores late to put Spain ahead in the Euro 2024 final against England in Berlin.",
+        "url": "https://www.bbc.com/sport/football/videos/cnk4w075ekgo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/bdd1/live/e9f2b260-4223-11ef-96a8-e710c6bfc866.jpg",
+        "publishedAt": "2024-07-14T21:01:41Z",
+        "content": "Spain substitute Mikel Oyarzabal scores a late winner to beat England in the Euro 2024 final in Berlin.\r\nWATCH &amp; FOLLOW LIVE: Euro 2024: Spain v England\r\nAvailable to UK users only.",
+        "sentiment": -0.15
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "McTominay deflected strike puts Scotland ahead against Switzerland",
+        "description": "Watch Scotland get off to a dream start as Scott McTominay gives Scotland the lead over Switzerland in their second group game of Euro 2024.",
+        "url": "https://www.bbc.com/sport/football/videos/cn33nmkkl1jo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/68fc/live/4deb40a0-2e71-11ef-bdc5-41d7421c2adf.jpg",
+        "publishedAt": "2024-06-19T19:26:46Z",
+        "content": "Scotland get off to a dream start as Scott McTominay gives his team the lead over Switzerland in their second group game of Euro 2024.\r\nFOLLOW LIVE: Scotland v Switzerland\r\nAvailable to UK users only.",
+        "sentiment": -0.2
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "BBC Sport",
+        "title": "Are England 'too tired to press'? Five key charts",
+        "description": "BBC Sport looks at the data on how tired England's players might be and their lack of pressing at Euro 2024.",
+        "url": "https://www.bbc.com/sport/football/articles/c6ppyw9yj12o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/66c0/live/eeb5b1c0-3095-11ef-a044-9d4367d5b599.jpg",
+        "publishedAt": "2024-06-22T13:11:35Z",
+        "content": "England captain Harry Kane admitted after the game that the team were \"not sure how to get the pressure on and whos supposed to be [pressing]\".\r\nSpeaking on an extended England analysis section on BB\u2026 [+694 chars]",
+        "sentiment": -0.4
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Schmid heads Austria in front against Netherlands",
+        "description": "Watch as Romano Schmid's header takes Austria to the lead against Netherlands in the Euro 2024 Group D match at the Olympiastadion Berlin.",
+        "url": "https://www.bbc.com/sport/football/videos/c722vzy36vpo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/84ea/live/22a0a600-3318-11ef-90be-b75b34b0bbb2.jpg",
+        "publishedAt": "2024-06-25T17:41:04Z",
+        "content": "Watch as Romano Schmid's header takes Austria to the lead against Netherlands in the Euro 2024 Group D match at the Olympiastadion Berlin.\r\nFOLLOW LIVE: Euro 2024: Netherlands v Austria\r\nAvailable to\u2026 [+14 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Starmer wants to 'mark the occasion' if England win Euros",
+        "description": "Keir Starmer stops short of confirming there will be a bank holiday if England win  Euro 2024.",
+        "url": "https://www.bbc.com/news/articles/cd197zdxv52o",
+        "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png",
+        "publishedAt": "2024-07-11T12:00:07Z",
+        "content": "Prime Minister Sir Keir Starmer has said \"we should certainly mark the occasion\" if England win Euro 2024.\r\nBut he stopped short of confirming there would be a bank holiday if the Three Lions were vi\u2026 [+1032 chars]",
+        "sentiment": 0.4
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Our dream is over and it's tough to take \u2013 Van Dijk",
+        "description": "Netherlands captain Virgil van Dijk reacts to his side\u2019s dramatic semi-final defeat against England at Euro 2024.",
+        "url": "https://www.bbc.com/sport/football/videos/c87rpvyjn0ko",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1eb8/live/10be16a0-3f63-11ef-b74c-bb483a802c97.jpg",
+        "publishedAt": "2024-07-11T09:22:45Z",
+        "content": "Our dream is over and it's tough to take Van Dijk. Video, 00:01:11Our dream is over and it's tough to take Van Dijk",
+        "sentiment": -0.4333333333333333
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "'We're flying to Poland' - England fans scramble to reach Berlin for final",
+        "description": "If you want to be in Berlin to see England potentially win Euro 2024, here's what you need to know.",
+        "url": "https://www.bbc.com/news/articles/cv2gnrydm7xo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c1c3/live/6947b790-3f86-11ef-b74c-bb483a802c97.jpg",
+        "publishedAt": "2024-07-11T15:06:16Z",
+        "content": "By\u00a0Ido Vock,\u00a0Ruth Comerford,\u00a0BBC News\r\nEngland supporters celebrate their team's victory\r\nEnglands Euro 2024 success has prompted a rush of fans attempting to make the last-minute journey to Berlin f\u2026 [+5528 chars]",
+        "sentiment": 0.8
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Watkins scores late to give England late lead",
+        "description": "Ollie Watkins scores a last-gasp winner for England against Netherlands in the Euro 2024 semi-final in Dortmund.",
+        "url": "https://www.bbc.com/sport/football/videos/cz7ey37dlrdo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/aa62/live/0e0e8570-3eff-11ef-96a8-e710c6bfc866.jpg",
+        "publishedAt": "2024-07-10T20:58:40Z",
+        "content": "Ollie Watkins scores a last-gasp winner for England against Netherlands in the Euro 2024 semi-final in Dortmund.\r\nGareth Southgate's side will face Spain in Sunday's final. \r\nWATCH MORE: UEFA Euro 20\u2026 [+36 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Rooney, Shearer & Fabregas on England's pressing problem",
+        "description": "Watch as BBC pundits Gary Lineker, Alan Shearer, Wayne Rooney and Cesc Fabregas analyse England's problems with pressing against Denmark at Euro 2024.",
+        "url": "https://www.bbc.com/sport/football/videos/czrrx77k0p8o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b275/live/41586d70-3017-11ef-90be-b75b34b0bbb2.jpg",
+        "publishedAt": "2024-06-21T21:54:43Z",
+        "content": "Watch as BBC pundits Gary Lineker, Alan Shearer, Wayne Rooney and Cesc Fabregas analyse England's problems with pressing against Denmark at Euro 2024.\r\nWATCH MORE: UEFA Euro 2024 Video\r\nAvailable to \u2026 [+13 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Turkey keeper Gunok's 'wonderful' save denies Austria a late leveller",
+        "description": "Turkey goalkeeper Mert Gunok produces an incredible save late in the match to deny Austria's Christoph Baumgartner's an equaliser at Euro 2024.",
+        "url": "https://www.bbc.com/sport/football/videos/cek90d3932vo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d09d/live/30f04cc0-38b7-11ef-a044-9d4367d5b599.jpg",
+        "publishedAt": "2024-07-02T21:13:28Z",
+        "content": "Turkey goalkeeper Mert Gunok produces an incredible save late in the match to deny Austria's Christoph Baumgartner's an equaliser at Euro 2024.\r\nMATCH REPORT: Turkey 2-1 Austria\r\nAvailable to UK user\u2026 [+6 chars]",
+        "sentiment": 0.30000000000000004
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "'It just will not happen! ' - Ronaldo penalty saved by Oblak in extra-time",
+        "description": "Watch as Cristiano Ronaldo's penalty is denied by a 'world class' Jan Oblak save in the Euro 2024 last-16 match between Portugal and Slovenia in Frankfurt.",
+        "url": "https://www.bbc.com/sport/football/videos/cyx5lv1p6reo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/027f/live/95ea1740-37f0-11ef-bbe0-29f79e992ddd.jpg",
+        "publishedAt": "2024-07-01T21:32:36Z",
+        "content": "Watch as Cristiano Ronaldo's penalty is denied by a 'world class' Jan Oblak save in the Euro 2024 last-16 match between Portugal and Slovenia in Frankfurt.\r\nWATCH &amp; FOLLOW LIVE: Euro 2024: Portug\u2026 [+41 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "'It was very poor' - Shearer reacts to England's draw with Denmark",
+        "description": "Watch as Alan Shearer reacts to England's frustrating 1-1 draw with Denmark in their second Euro 2024 Group C game in Frankfurt.",
+        "url": "https://www.bbc.com/sport/football/videos/c2qq79ynnk2o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6c90/live/49498540-2f32-11ef-a044-9d4367d5b599.jpg",
+        "publishedAt": "2024-06-20T18:26:10Z",
+        "content": "Watch as Alan Shearer reacts to England's frustrating 1-1 draw with Denmark in their second Euro 2024 Group C game in Frankfurt. \r\nMATCH HIGHLIGHTS: Denmark 1-1 England\r\nAvailable to UK users only.",
+        "sentiment": -0.26666666666666666
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Highlights: Italy score injury-time equaliser against Croatia to reach last 16",
+        "description": "Mattia Zaccagni's stoppage-time goal secures Italy a spot in the Euro 2024 knockout stages as they draw 1-1 against Croatia.",
+        "url": "https://www.bbc.com/sport/football/videos/crgggjz8pn1o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a774/live/97c794a0-3270-11ef-bdc5-41d7421c2adf.jpg",
+        "publishedAt": "2024-06-24T21:34:22Z",
+        "content": "Mattia Zaccagni's stoppage-time goal secures Italy a spot in the Euro 2024 knockout stages as they draw 1-1 against Croatia.\r\nREAD MORE: Croatia 1-1 Italy\r\nAvailable to UK users only.",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Hlozek goal ruled out for handball",
+        "description": "Watch as Czech Republic's Adam Hlozek's has a goal ruled out for handball in the first half of their Group F Euro 2024 game against Georgia in Hamburg.",
+        "url": "https://www.bbc.com/sport/football/videos/c16638ddx55o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5f1c/live/254d8ca0-309e-11ef-bdc5-41d7421c2adf.jpg",
+        "publishedAt": "2024-06-22T13:50:48Z",
+        "content": "Watch as Czech Republic's Adam Hlozek's has a goal ruled out for handball in the first half of their Group F Euro 2024 game against Georgia in Hamburg.\r\nFOLLOW LIVE: Georgia vs Czech Republic\r\nAvaila\u2026 [+20 chars]",
+        "sentiment": -0.10555555555555556
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Highlights: Belgium through but Ukraine out after goalless draw",
+        "description": "Belgium advance to the Euro 2024 last 16 despite being held to a goalless draw by Ukraine, who finish bottom of Group E.",
+        "url": "https://www.bbc.com/sport/football/videos/c3ggv46re10o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0136/live/a0af0740-33e4-11ef-a044-9d4367d5b599.jpg",
+        "publishedAt": "2024-06-26T17:54:54Z",
+        "content": "Belgium advance to the Euro 2024 last 16 despite being held to a goalless draw by Ukraine, who finish bottom of Group E.\r\nREAD MORE: Ukraine 0-0 Belgium\r\nAvailable to UK users only.",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "Emlyn Begley",
+        "title": "England to face Spain in Euro 2024 final live on BBC",
+        "description": "England will face Spain in Sunday's Euro 2024 final in Berlin in a game you can watch live on the BBC.",
+        "url": "https://www.bbc.com/sport/football/articles/crg58gegz31o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/d848/live/945779b0-3edd-11ef-9e1c-3b4a473456a6.jpg",
+        "publishedAt": "2024-07-10T21:00:44Z",
+        "content": "If Spain win, this tournament is likely to go down in history as the introduction of Lamine Yamal - in the way Pele took the 1958 World Cup by storm.\r\nThe 16-year-old Barcelona player became the youn\u2026 [+1257 chars]",
+        "sentiment": -0.08787878787878789
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Bellingham's last-gasp equaliser - All the angles",
+        "description": "Watch every angle of Jude Bellingham's last gasp injury-time equaliser as England advance to the Euro 2024 quarter-final after beating Slovakia in the last 16 match at Gelsenkirchen.",
+        "url": "https://www.bbc.com/sport/football/videos/cger05n04r0o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9edb/live/c1b90750-371e-11ef-bdc5-41d7421c2adf.jpg",
+        "publishedAt": "2024-06-30T23:27:18Z",
+        "content": "Watch every angle of Jude Bellingham's last gasp injury-time equaliser as England advance to the Euro 2024 quarter-final after beating Slovakia in the last-16 match at Gelsenkirchen.\r\nMATCH REPORT: E\u2026 [+53 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Highlights: Turkey beat Georgia in Euros thriller",
+        "description": "Watch highlights as Mert Muldur and Arda Guler score spectacular goals to help Turkey to a 3-1 victory against tournament debutants Georgia in their opening Euro 2024 Group F match at the BVB Stadion Dortmund.",
+        "url": "https://www.bbc.com/sport/football/videos/cqeedgyvlqqo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/dad4/live/0ba813c0-2d9b-11ef-bdc5-41d7421c2adf.jpg",
+        "publishedAt": "2024-06-18T18:15:32Z",
+        "content": "Watch highlights as Mert Muldur and Arda Guler score spectacular goals to help Turkey to a 3-1 victory against tournament debutants Georgia in their opening Euro 2024 Group F match at the BVB Stadion\u2026 [+72 chars]",
+        "sentiment": 0.6
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "Dan Roan",
+        "title": "'A chance to shake off failure and secure legendary status'",
+        "description": "BBC sports editor Dan Roan looks ahead to Sunday night's Euro 2024 final in Germany, where England play Spain looking to \"shake off failure and secure legendary status\".",
+        "url": "https://www.bbc.com/sport/football/articles/c3gwn382e3qo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/a6ce/live/7f48ccc0-4119-11ef-94a0-4b664a2da472.jpg",
+        "publishedAt": "2024-07-13T23:03:38Z",
+        "content": "But that rousing victory amid an atmosphere of shuddering intensity, earned Southgate another chance to silence the critics that clearly affected his morale in Germany.\r\nTo confound those who, despit\u2026 [+2069 chars]",
+        "sentiment": 0.2708333333333333
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Keir Starmer advice to Gareth Southgate: Win!",
+        "description": "The new prime minister was asked about England's crunch Euro 2024 match while on his way to a Nato summit in Washington.",
+        "url": "https://www.bbc.com/news/articles/cq5xel42801o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1d4e/live/8c1d7de0-3e55-11ef-b0da-cb07e7d391a7.jpg",
+        "publishedAt": "2024-07-10T05:03:31Z",
+        "content": "The new Prime Minister Sir Keir Starmer has just one word of advice to the England manager Gareth Southgate ahead of tonights Euro 2024 semi final against the Netherlands: Win!\r\nSir Keir, a keen foot\u2026 [+1809 chars]",
+        "sentiment": 0.13636363636363635
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Camavinga misses great chance to put France ahead",
+        "description": "France's Eduardo Camavinga misses a golden opportunity to give his country the lead against Portugal in Hamburg, during their Euro 2024 quarter-final match.",
+        "url": "https://www.bbc.com/sport/football/videos/cj50qqy3d88o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/448d/live/223c68e0-3b0e-11ef-bbe0-29f79e992ddd.jpg",
+        "publishedAt": "2024-07-05T20:42:37Z",
+        "content": "France's Eduardo Camavinga misses a golden opportunity to give his country the lead against Portugal in Hamburg, during their Euro 2024 quarter-final match.\r\nFOLLOW: Portugal v France \r\nAvailable to \u2026 [+13 chars]",
+        "sentiment": 0.3
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "England final loss 'as tough as it gets' - Kane",
+        "description": "England captain Harry Kane says his team's defeat to Spain in the Euro 2024 final feels \"as tough as it gets\".",
+        "url": "https://www.bbc.com/sport/football/videos/cjjw798e0n1o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b94a/live/c91d19a0-4227-11ef-96a8-e710c6bfc866.jpg",
+        "publishedAt": "2024-07-14T21:38:04Z",
+        "content": "England captain Harry Kane says his team's defeat to Spain in the Euro 2024 final feels \"as tough as it gets\".\r\nWATCH MORE: UEFA Euro 2024 Video\r\nAvailable to UK users only.",
+        "sentiment": -0.19444444444444445
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "Emlyn Begley",
+        "title": "Defeat extends England's '58 years of hurt'",
+        "description": "England fail to end '58 years of hurt' as their 2-1 Euro 2024 final defeat by Spain in Berlin leaves the 1966 World Cup as their only men's trophy.",
+        "url": "https://www.bbc.com/sport/football/articles/c3g3r62p3kdo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/b807/live/3902fb40-4223-11ef-b74c-bb483a802c97.jpg",
+        "publishedAt": "2024-07-14T20:58:51Z",
+        "content": "When England won their home World Cup in 1966, beating West Germany 4-2 in the final with Geoff Hurst scoring a hat-trick, many fans may not have imagined that would remain their only success for at \u2026 [+1075 chars]",
+        "sentiment": -0.16666666666666666
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Watch England fans go wild as Bellingham scores late equaliser",
+        "description": "Watch England fans erupt at a fanpark in Wembley as Jude Bellingham scores a late stunner to send the game to extra-time against Slovakia in the Euro 2024 last-16 match in Gelsenkirchen.",
+        "url": "https://www.bbc.com/sport/football/videos/cl4yj1ve5z7o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ac6b/live/73dcef20-3713-11ef-bbe0-29f79e992ddd.jpg",
+        "publishedAt": "2024-06-30T19:31:26Z",
+        "content": "Watch England fans erupt at a fanpark in Wembley as Jude Bellingham scores a late stunner to send the game to extra-time against Slovakia in the Euro 2024 last-16 match in Gelsenkirchen.\r\nWATCH MORE:\u2026 [+49 chars]",
+        "sentiment": -0.35
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "'A big decison to make' - what next for England and Southgate?",
+        "description": "BBC pundits Rio Ferdinand and Micah Richards say England have to consider how to move forward and make the most of their current crop of players, after defeat by Spain in the Euro 2024 final.",
+        "url": "https://www.bbc.com/sport/football/videos/cn076jy5xjro",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b26a/live/9bd3ba70-423c-11ef-9e1c-3b4a473456a6.jpg",
+        "publishedAt": "2024-07-14T23:56:18Z",
+        "content": "BBC pundits Rio Ferdinand and Micah Richards say England have to consider how to move forward and make the most of their current crop of players, after defeat by Spain in the Euro 2024 final.\r\nWatch:\u2026 [+59 chars]",
+        "sentiment": 0.16666666666666666
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Gus Contreras",
+        "title": "Some of the best men's soccer teams collide at the UEFA European Championship",
+        "description": "NPR's Ailsa Chang speaks with soccer writer Dermot Corrigan about the latest action at the men's Euro Cup 2024.",
+        "url": "https://www.npr.org/2024/06/20/nx-s1-5013649/some-of-the-best-mens-soccer-teams-collide-at-the-uefa-european-championship",
+        "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+        "publishedAt": "2024-06-20T22:38:22Z",
+        "content": "NPR's Ailsa Chang speaks with soccer writer Dermot Corrigan about the latest action at the men's Euro Cup 2024.",
+        "sentiment": 0.3
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Kevin Lynch",
+        "title": "How to Watch Euro 2024: Czech Republic vs. Turkey \u2013 Livestream Soccer From Anywhere",
+        "description": "The Red Devils and the Blue and Yellows look to make their way their way out of the tournament's toughest group.",
+        "url": "https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-czech-republic-vs-turkey-livestream-soccer-from-anywhere/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/00340160d613875765bc49b0d283ace61c90a88c/hub/2024/06/26/26af65eb-7336-445d-b31a-4dc8565144d0/gettyimages-2157686622.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2024-06-26T17:30:00Z",
+        "content": "Czech Republic face Turkey on Wednesday, with both sides needing something to advance into\u00a0UEFA Euro 2024's Round of 16.\r\nCzechia claimed their first point of the tournament with a 1-1 draw with Geor\u2026 [+5023 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Kevin Lynch",
+        "title": "How to Watch Euro 2024: Spain vs. Georgia -- Livestream Soccer From Anywhere",
+        "description": "La Roja come into the knockout stages as the only team with a 100% record.",
+        "url": "https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-spain-vs-georgia-livestream-soccer-from-anywhere/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/d1190fd250d61dbabeb6a65a1171c93bdfaa04c3/hub/2024/06/30/13e06703-0991-4aa5-90a4-5b77f5004fd5/gettyimages-2158807319.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2024-06-30T16:00:14Z",
+        "content": "Spain look to build upon their scintillating performance in the group stage as they take on\u00a0UEFA Euro 2024\u00a0outsiders Georgia in this round of 16 knockout tie in Cologne.\u00a0\r\nPropelled by young stars La\u2026 [+5009 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Kevin Lynch",
+        "title": "How to Watch Euro 2024: Georgia vs. Portugal - Livestream Soccer From Anywhere",
+        "description": "The Georgians go in search of a win against the already qualified Selecao.",
+        "url": "https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-georgia-vs-portugal-livestream-soccer-from-anywhere/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/233db117aad0e98ef6e08d6aafad77da62957390/hub/2024/06/26/92603592-57b4-454b-b6d6-5dd599813cd1/gettyimages-2158758732.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2024-06-26T17:30:07Z",
+        "content": "Georgia face a tough challenge in their bid to reach UEFA Euro 2024's Round of 16, as they go in search of a win against Portugal.\r\nThe Georgians have impressed during their first ever appearance at \u2026 [+4992 chars]",
+        "sentiment": 0.8
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "Laura Scott",
+        "title": "'Deepfake' Southgate videos viewed by millions",
+        "description": "The Football Association criticises AI-generated videos on social media purporting to show Gareth Southgate making crude remarks about England players.",
+        "url": "https://www.bbc.com/sport/football/articles/cqqlvd3qy1lo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/98c8/live/473627c0-3597-11ef-bdd8-2f86d4bd5fec.jpg",
+        "publishedAt": "2024-06-30T05:22:50Z",
+        "content": "At a major tournament England head coach Gareth Southgate's words are analysed, deconstructed and debated.\r\nBut Euro 2024 has brought a new dimension - AI-generated fake interviews with the England b\u2026 [+1936 chars]",
+        "sentiment": -0.3333333333333333
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Kira Wakeam",
+        "title": "Here's what's coming in the Copa America and Euro 2024 men\u2019s semifinals",
+        "description": "NPR's Juana Summers talks with The Athletic's Greg O'Keeffe about the Copa America and Euro 2024 semi final matches that kick off this week.",
+        "url": "https://www.npr.org/2024/07/08/nx-s1-5032770/heres-whats-coming-in-the-copa-america-and-euro-2024-mens-semifinals",
+        "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+        "publishedAt": "2024-07-08T22:21:53Z",
+        "content": "NPR's Juana Summers talks with The Athletic's Greg O'Keeffe about the Copa America and Euro 2024 semi final matches that kick off this week.",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Highlights: Spain finish group B with victory over Albania",
+        "description": "Watch highlights as Spain end the group stage with three wins from three as they beat Albania 1-0 in Dusseldorf, while Albania are eliminated.",
+        "url": "https://www.bbc.com/sport/football/videos/c7222gpek10o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3dff/live/adceb7b0-326b-11ef-bdc5-41d7421c2adf.jpg",
+        "publishedAt": "2024-06-24T20:58:25Z",
+        "content": "Watch highlights as Spain end the group stage with three wins from three as they beat Albania 1-0 in Dusseldorf, while Albania are eliminated. \r\nWATCH MORE: UEFA Euro 2024 Video\r\nAvailable to UK user\u2026 [+6 chars]",
+        "sentiment": 0.3
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Croatia score twice in three minutes to lead Albania",
+        "description": "Watch as two late goals puts Croatia in the lead in their group B game against Albania in Hamburg.",
+        "url": "https://www.bbc.com/sport/football/videos/c722gyjl8yjo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ff59/live/f26adfd0-2e4b-11ef-a044-9d4367d5b599.jpg",
+        "publishedAt": "2024-06-19T15:05:42Z",
+        "content": "Two goals in three minutes put Croatia in the lead in their group B game against Albania in Hamburg.\r\nWATCH MORE: UEFA Euro 2024 Video\r\nAvailable to UK users only.",
+        "sentiment": -0.35
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Kevin Lynch",
+        "title": "How to Watch Euro 2024: Spain vs. Germany \u2013 Livestream Soccer From Anywhere",
+        "description": "The quarterfinals get underway with a clash of European heavyweights in Stuttgart.",
+        "url": "https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-spain-vs-germany-livestream-soccer-from-anywhere/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/b25a5b392fb4a8608428a0c8596415c0ed0be86a/hub/2024/07/05/e5f6d4d1-ce66-45a1-b801-e082aebd7981/gettyimages-2159919899.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2024-07-05T15:15:00Z",
+        "content": "The quarterfinals at\u00a0UEFA Euro 2024\u00a0look set to kick off in some style with a mouth-watering matchup in Stuttgart between hosts Germany and the tournament's stand-out team so far, Spain.\u00a0\r\nHaving nav\u2026 [+4865 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Becky Sullivan",
+        "title": "Soccer fans were treated to 2 big tournament finals: UEFA Euro 2024, Copa America",
+        "description": "It was an amazing Sunday of soccer with the finals of two big international tournaments: the Euros and Copa America.",
+        "url": "https://www.npr.org/2024/07/15/nx-s1-5036537/soccer-fans-were-treated-to-2-big-tournament-finals-uefa-euro-2024-copa-america",
+        "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+        "publishedAt": "2024-07-15T09:09:14Z",
+        "content": "It was an amazing Sunday of soccer with the finals of two big international tournaments: the Euros and Copa America.",
+        "sentiment": 0.20000000000000004
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "BBC Sport",
+        "title": "Aston Villa sign Chelsea left-back Maatsen for \u00a335m",
+        "description": "Aston Villa complete the signing of Chelsea defender Ian Maatsen for \u00a335m.",
+        "url": "https://www.bbc.com/sport/football/articles/ceqd09exwqqo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/29c3/live/2f7ef7a0-3584-11ef-8446-c7ca829c0b3f.jpg",
+        "publishedAt": "2024-06-28T19:26:41Z",
+        "content": "Aston Villa have completed the signing of Chelsea left-back Ian Maatsen for \u00a335m.\r\nMaatsen, 22, spent the second half of last season on loan at Borussia Dortmund and helped the Bundesliga club to rea\u2026 [+250 chars]",
+        "sentiment": 0.1
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "England fans surround 'Bellingham bus'",
+        "description": "Fans piled on the vehicle, dancing and singing in celebration as it moved through Shoreditch High Street, London.",
+        "url": "https://www.bbc.com/news/videos/cpd90pj0l7vo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c4f5/live/3f37a710-3fbf-11ef-96a8-e710c6bfc866.jpg",
+        "publishedAt": "2024-07-11T20:04:46Z",
+        "content": "This is the moment football fans surrounded the Bellingham bus in London, after spotting where it was headed.\r\nFans piled on the vehicle, dancing and singing, as the number 47 bus moved through Shore\u2026 [+279 chars]",
+        "sentiment": 0.16
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "William thanks Taylor Swift for 'great evening'",
+        "description": "The Prince of Wales celebrated his 42nd birthday at the singer's Wembley gig.",
+        "url": "https://www.bbc.com/news/articles/cgee8qgey2eo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d10b/live/27381500-3092-11ef-b730-ffbfe2da794c.jpg",
+        "publishedAt": "2024-06-22T12:42:50Z",
+        "content": "The Prince of Wales has thanked pop star Taylor Swift for a \"great evening\" after he was pictured attending her concert in London on Friday night.\r\nIn a post on X, formerly Twitter, Kensington Palace\u2026 [+433 chars]",
+        "sentiment": 0.35
+    },
+    {
+        "source": {
+            "id": "espn",
+            "name": "ESPN"
+        },
+        "author": "ESPN",
+        "title": "Euro 2024 Daily: Mbapp\u00e9, France have room for improvement",
+        "description": "Kylian Mbapp\u00e9 and France snuck past Austria, but it wasn't easy, as Belgium and Ukraine suffered shock defeats. That and more in Monday's Euro Daily.",
+        "url": "https://www.espn.com/soccer/story/_/id/40368758/euro-2024-updates-kylian-mbappe-france-room-improvement",
+        "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0617%2Fr1347032_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-06-17T21:35:11Z",
+        "content": "Jun 17, 2024, 05:25 PM ET\r\nKylian Mbapp\u00e9 and France won their Euro 2024 opener on Monday against Austria, but it was hardly straightforward.\u00a0Lars Baron/Getty Images\r\nEuro 2024 is underway! Our daily \u2026 [+17948 chars]",
+        "sentiment": 0.17083333333333334
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Watch: Ecstatic Spain fans surround BBC reporter in Madrid",
+        "description": "Huge crowds celebrate in Madrid after Spain's 2-1 victory over England in the European Championship final.",
+        "url": "https://www.bbc.com/news/videos/cv2gn80zedno",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/afce/live/76ee9aa0-4245-11ef-b74c-bb483a802c97.jpg",
+        "publishedAt": "2024-07-15T01:07:27Z",
+        "content": "Huge crowds of Spain fans celebrated in the streets after their 2-1 victory over England in the Euro 2024 final.\r\nVideo shows people erupting with joy as the final whistle was blown, as BBC correspon\u2026 [+41 chars]",
+        "sentiment": 0.13333333333333336
+    },
+    {
+        "source": {
+            "id": "espn",
+            "name": "ESPN"
+        },
+        "author": "Dale Johnson",
+        "title": "Euro 2024: What every team needs to go through",
+        "description": "Who could book their place in the second set of matches at Euro 2024? We run through all six groups and set out the permutations.",
+        "url": "https://www.espn.com/soccer/story/_/id/40348445/euro-2024-every-team-needs-go-group-stage",
+        "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0614%2Fr1345856_2_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-06-19T11:08:07Z",
+        "content": "The group stage at Euro 2024 is starting to take shape after the first round of matches.\r\nSo who could book their progress in the second set of matches? And who has work to do? We run through all six\u2026 [+10828 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "Phil McNulty",
+        "title": "Will fan fury shape Southgate's England future?",
+        "description": "Gareth Southgate has said he is \"oblivious\" to outside criticism but will the fans' reaction to England's draw with Slovenia decide his future?",
+        "url": "https://www.bbc.com/sport/football/articles/c8vvdz48ml7o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/61e3/live/9e46b040-33d8-11ef-adcc-774fd4a5094b.jpg",
+        "publishedAt": "2024-06-26T17:34:45Z",
+        "content": "He admits himself that he is unlikely to remain as England manager if they do not win Euro 2024 and even if they do triumph a long stretch it seems on current form moments like these are likely to co\u2026 [+2102 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "WATCH: Euro 2024 volunteer balances 9 beers on his head",
+        "description": "A volunteer at Euro 2024 demonstrated incredible skill, but not of the sporting variety, successfully stacking nine pints of beer on his head and walking around with them.",
+        "url": "https://abcnews.go.com/Lifestyle/video/euro-2024-volunteer-balances-9-beers-head-111470467",
+        "urlToImage": "https://i.abcnewsfe.com/a/1f587c0a-7589-4183-ad06-63d545d67048/240627_abc_social_beer_hpMain_16x9.jpg?w=992",
+        "publishedAt": "2024-06-27T11:24:50Z",
+        "content": "<ul><li>Whats next for Russia? \r\n</li><li>What comes next after Texas school shooting?\r\n</li><li>What's next for abortion rights in America?\r\n</li><li>The new battle for voting rights\r\n</li><li>How w\u2026 [+2284 chars]",
+        "sentiment": 0.825
+    },
+    {
+        "source": {
+            "id": "espn",
+            "name": "ESPN"
+        },
+        "author": "Reuters",
+        "title": "Spain into Euro knockouts with win over Italy",
+        "description": "Riccardo Calafiori's second-half own goal earned dominant Spain a 1-0 victory over defending champions Italy on Thursday to qualify for the last 16 of Euro 2024 as Group B winners.",
+        "url": "https://www.espn.com/soccer/report/_/gameId/690588",
+        "urlToImage": "https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/soccer.png",
+        "publishedAt": "2024-06-20T21:06:11Z",
+        "content": "Riccardo Calafiori's second-half own goal earned dominant Spain a 1-0 victory over defending champions Italy on Thursday to qualify for the round of 16 of Euro 2024 as Group B winners.\r\nItaly goalkee\u2026 [+667 chars]",
+        "sentiment": 0.3
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Femke COLBORNE",
+        "title": "Berlin's Turks stoked for Euros quarter-final 'home game'",
+        "description": "Members of Berlin's large Turkish community have vowed to paint the town red when their team comes to the German capital to play the Netherlands in Euro 2024...",
+        "url": "https://sports.yahoo.com/berlins-turks-stoked-euros-quarter-065106251.html",
+        "urlToImage": "https://media.zenfs.com/en/afp.com/05f4c66b8158095190547edb87e1781c",
+        "publishedAt": "2024-07-05T06:51:06Z",
+        "content": "Turkey supporters in colourful support of their country in the last-16 Euro 2024 victory against Austria -- they will be out in force for the quarter-final in Berlin (JOHN MACDOUGALL)\r\nMembers of Ber\u2026 [+4015 chars]",
+        "sentiment": 0.07142857142857142
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "Phil McNulty",
+        "title": "'With pressure on, De Bruyne delivers a masterclass'",
+        "description": "When Belgium needed him most captain Kevin de Bruyne delivers yet another masterclass, writes Phil McNulty.",
+        "url": "https://www.bbc.com/sport/football/articles/c722pmy26x7o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/f8b5/live/3b396a70-30e4-11ef-a044-9d4367d5b599.jpg",
+        "publishedAt": "2024-06-22T23:38:53Z",
+        "content": "Cologne was decorated in red and yellow all day, a message on the big screens from the great \"Maradona of the Carpathians\" Gheorghe Hagi shown on the big screens before kick-off taking the massed ran\u2026 [+1209 chars]",
+        "sentiment": 0.5
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Associated Press",
+        "title": "German police believe man who climbed arena roof during Euro 2024 game was a would-be photographer",
+        "description": "German police said Sunday they believe a man who scaled the roof of the stadium as Germany played Denmark at Euro 2024 was a would-be photographer and they...",
+        "url": "https://sports.yahoo.com/german-police-believe-man-climbed-125117828.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/nvNEeJF9AU.xWcgwxZhAdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/e02412028845af2db72e9e7b1fb1d731",
+        "publishedAt": "2024-06-30T12:51:17Z",
+        "content": "DORTMUND, Germany (AP) German police said Sunday they believe a man who scaled the roof of the stadium as Germany played Denmark at Euro 2024 was a would-be photographer and they have no evidence he \u2026 [+2286 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "espn",
+            "name": "ESPN"
+        },
+        "author": "Sam Marsden",
+        "title": "Wigs, memes and songs: Welcome to Spain's summer of Cucurella",
+        "description": "Spain defender Marc Cucurella has become a key player at Euro 2024 after struggling for Chelsea. And his country's fans are loving it.",
+        "url": "https://www.espn.com/soccer/story/_/id/40457310/wigs-memes-songs-welcome-spain-summer-cucurella-euro-2024",
+        "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0629%2Fr1352070_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-06-29T13:21:15Z",
+        "content": "COLOGNE -- Whether at Spain's Euro 2024 training camp in Der \u00d6schberghof in the Black Forest or on a tram to one of their games in Germany, one player has emerged as the central figure: Marc Cucurell\u2026 [+7344 chars]",
+        "sentiment": 0.3
+    },
+    {
+        "source": {
+            "id": "le-monde",
+            "name": "Le Monde"
+        },
+        "author": "C\u00e9cile Boutelet",
+        "title": "Euro 2024\u00a0: Berlin, une capitale qui joue en deuxi\u00e8me division",
+        "description": "\u00ab\u00a0L\u2019Allemagne, ce grand stade de foot\u00a0\u00bb (4/5). A l\u2019image de son histoire, Berlin est divis\u00e9 par deux clubs antagonistes\u00a0: le Herta BSC \u00e0 l\u2019Ouest et le FC Union \u00e0 l\u2019Est. Si aucun ne joue les premiers r\u00f4les dans le championnat allemand, le dernier se distingue \u2026",
+        "url": "https://www.lemonde.fr/sport/article/2024/06/18/euro-2024-berlin-une-capitale-qui-joue-en-deuxieme-division_6241020_3242.html",
+        "urlToImage": "https://img.lemde.fr/2024/06/08/0/34/7911/5274/1440/960/60/0/d82c2df_2024-06-08t074513z-1082992307-rc2d21a98v8j-rtrmadp-3-soccer-euro.JPG",
+        "publishedAt": "2024-06-18T06:00:01Z",
+        "content": "La finale de lEuro 2024, qui se tiendra \u00e0 lOlympiastadion de Berlin, le 14\u00a0juillet, sera de nouveau loccasion de constater un paradoxe\u00a0: Berlin, capitale de la premi\u00e8re \u00e9conomie de la zone euro, ne c\u2026 [+2861 chars]",
+        "sentiment": 0.5
+    },
+    {
+        "source": {
+            "id": "le-monde",
+            "name": "Le Monde"
+        },
+        "author": "Aude Lasjaunias",
+        "title": "Euro 2024\u00a0: le Portugual \u00e9teint la ferveur turque \u00e0 Dortmund",
+        "description": "Galvanis\u00e9s par la victoire inaugurale sur la G\u00e9orgie, les supporteurs turcs s\u2019\u00e9taient mobilis\u00e9s, samedi, pour encourager les Bizim \u00c7ocuklar. Mais ces derniers ont lourdement chut\u00e9 (0-3) face \u00e0 la Sele\u00e7ao.",
+        "url": "https://www.lemonde.fr/sport/article/2024/06/22/euro-2024-le-portugual-eteint-la-ferveur-turque-a-dortmund_6242577_3242.html",
+        "urlToImage": "https://img.lemde.fr/2024/06/22/0/0/4881/3254/1440/960/60/0/0d8f1bb_5862494-01-06.jpg",
+        "publishedAt": "2024-06-22T19:38:20Z",
+        "content": "La d\u00e9ception des joueurs turcs apr\u00e8s le match de lEuro 2024 face au Portugal, au Signal Iduna Park de Dortmund, le 22 juin 2024. PATRICIA DE MELO MOREIRA / AFP\r\nLes cris de joie et les concerts de kl\u2026 [+2629 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "le-monde",
+            "name": "Le Monde"
+        },
+        "author": "Denis M\u00e9n\u00e9trier",
+        "title": "Euro 2024\u00a0: les \u00ab\u00a0coiffeurs\u00a0\u00bb espagnols r\u00e9pondent pr\u00e9sents et battent l\u2019Albanie",
+        "description": "D\u00e9j\u00e0 qualifi\u00e9e pour les huiti\u00e8mes de finale, l\u2019Espagne s\u2019est impos\u00e9e face \u00e0 l\u2019Albanie (1-0), lundi, avec une \u00e9quipe largement remani\u00e9e. L\u2019occasion pour le s\u00e9lectionneur Luis de la Fuente de maintenir tous ses joueurs concern\u00e9s avant la suite de l\u2019Euro.",
+        "url": "https://www.lemonde.fr/sport/article/2024/06/25/euro-2024-les-coiffeurs-espagnols-repondent-presents-et-battent-l-albanie_6243461_3242.html",
+        "urlToImage": "https://img.lemde.fr/2024/06/24/0/1/1542/1028/1440/960/60/0/370b98e_5883117-01-06.jpg",
+        "publishedAt": "2024-06-24T22:43:18Z",
+        "content": "Les Espagnols c\u00e9l\u00e8brent le but inscrit par Ferran Torres lors de leur victoire face \u00e0 lAlbanie \u00e0 D\u00fcsseldorf, le 24\u00a0juin\u00a02024. OZAN KOSE / AFP\r\nEn \u00e9quipe de France, ils sont appel\u00e9s les \u00ab\u00a0coiffeurs\u00a0\u00bb \u2026 [+2816 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hipertextual"
+        },
+        "author": "Jos\u00e9 Mar\u00eda L\u00f3pez",
+        "title": "C\u00f3mo cambiar los comentaristas de la Eurocopa 2024 en tu televisor y en RTVE Play",
+        "description": "La Eurocopa 2024 de o Euro 2024 de Alemania sigue su curso. Pero si resides en Espa\u00f1a o ves la retransmisi\u00f3n de la Eurocopa a trav\u00e9s de RTVE, tal vez hayas notado algo durante los partidos. Los comentaristas. Sin poner en duda su profesionalidad, en internet \u2026",
+        "url": "http://hipertextual.com/2024/06/cambiar-comentaristas-eurocopa-2024",
+        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/05/Eurocopa-2024-selecciones.jpeg",
+        "publishedAt": "2024-06-20T12:31:37Z",
+        "content": "La Eurocopa 2024 de o Euro 2024 de Alemania sigue su curso. Pero si resides en Espa\u00f1a o ves la retransmisi\u00f3n de la Eurocopa a trav\u00e9s de RTVE, tal vez hayas notado algo durante los partidos. Los comen\u2026 [+3841 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "James Temperton, Isabel Fraser",
+        "title": "How to Take the Perfect Soccer Penalty",
+        "description": "To understand how to take a match-winning penalty, you\u2019ve got to understand the physics behind the perfect kick.",
+        "url": "https://www.wired.com/story/how-to-take-the-perfect-soccer-penalty/",
+        "urlToImage": "https://media.wired.com/photos/6671cf23b19d76d2b8236da7/191:100/w_1280,c_limit/Science_WorldCup_PenaltyKick_GettyImages-2157605868.jpg",
+        "publishedAt": "2024-06-19T11:00:00Z",
+        "content": "The penalty was invented in England on February 14, 1891. It was the last minute of an FA Cup quarter-final between Notts County and Stoke City when a defender for County stopped a shot on the line w\u2026 [+3164 chars]",
+        "sentiment": 0.3
+    },
+    {
+        "source": {
+            "id": "time",
+            "name": "Time"
+        },
+        "author": "Anna Gordon",
+        "title": "Everything to Know About Lamine Yamal, the Spanish Teenager Dominating EURO 2024",
+        "description": "Spain's Lamine Yamal is the youngest person to ever score a goal in the UEFA European Football Championship.",
+        "url": "https://time.com/6997742/lamine-yamal-spain-footballer-teenager-bio-parents-net-worth/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2024/07/GettyImages-2161394794.jpg?quality=85&w=1024&h=628&crop=1",
+        "publishedAt": "2024-07-12T13:08:46Z",
+        "content": "Lamine Yamal, a Spanish professional soccer player, is making headlines around the world for his spectacular performance as part of Spains EURO 2024 team. \r\nOn Wednesday night, he scored a viral equa\u2026 [+2713 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "espn",
+            "name": "ESPN"
+        },
+        "author": "ESPN",
+        "title": "Euro 2024 Daily: Belgium get booed, limp into round of 16",
+        "description": "A booed Belgium did enough to qualify for the round of 16 while Romania wins Group E. Here's what else happened on Wednesday.",
+        "url": "https://www.espn.com/soccer/story/_/id/40434495/euro-2024-updates-belgium-get-booed-limp-round-16",
+        "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0626%2Fr1350911_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-06-26T19:39:32Z",
+        "content": "Jun 26, 2024, 03:27 PM ET\r\nEuro 2024 is underway! Our daily files give you the latest reporting from around the tournament as well as betting lines, what to watch for and best reads.\r\nCheck in with E\u2026 [+12652 chars]",
+        "sentiment": 0.033333333333333326
+    },
+    {
+        "source": {
+            "id": "time",
+            "name": "Time"
+        },
+        "author": "Rebecca Schneid",
+        "title": "The Reason France Soccer Captain Kylian Mbapp\u00e9 Is Wearing a Mask at EURO 2024",
+        "description": "France captain Kylian Mbapp\u00e9 has been sporting a Batman-style mask in recent matches.",
+        "url": "https://time.com/6994862/euro-2024-france-soccer-captain-kylian-mbappe-mask-wearing-reason/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2024/07/GettyImages-2160112355.jpg?quality=85&w=1024&h=628&crop=1",
+        "publishedAt": "2024-07-03T16:22:33Z",
+        "content": "France captain Kylian Mbapp\u00e9 led his team to victory in their EURO 2024 Round of 16 game against Belgium on Monday, with a deflected shot securing the teams advancement.\r\nThe 25-year-old soccer star \u2026 [+2910 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "espn",
+            "name": "ESPN"
+        },
+        "author": "ESPN",
+        "title": "Deschamps: Mbapp\u00e9 has made enough history",
+        "description": "France manager Didier Deschamps has come to the defence of his captain and star player Kylian Mbapp\u00e9 amid criticism of the striker's Euro 2024 performances.",
+        "url": "https://www.espn.com/soccer/story/_/id/40512132/euro-2024-france-deschamps-defends-mbappe-amid-criticism",
+        "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0707%2Fr1355659_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-07-07T11:37:08Z",
+        "content": "France manager Didier Deschamps has come to the defence of his captain and star player Kylian Mbapp\u00e9 amid criticism of the striker's Euro 2024 performances.\r\nMbapp\u00e9, 25, has scored just once in the t\u2026 [+2203 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "heise online"
+        },
+        "author": "Daniel Herbig",
+        "title": "Euro 2024: Rekord-Datenverkehr bei Mobilfunkbetreibern",
+        "description": "Gro\u00dfe Zahlen bei den Mobilfunkprovidern: W\u00e4hrend der EM verzeichnen Vodafone, Telekom und Telef\u00f3nica Datenrekorde.",
+        "url": "https://www.heise.de/news/Euro-2024-Rekord-Datenverkehr-bei-Mobilfunkbetreibern-9799426.html",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/3/2/7/7/0/shutterstock_2400647075-6aa63a383adef46f.jpg",
+        "publishedAt": "2024-07-12T10:00:00Z",
+        "content": "Streamen und Diskutieren: Die Fu\u00dfball-Europameisterschaft befl\u00fcgelt den Mobilfunkt-Traffic bei den deutschen Providern. Die Deutsche Telekom, Vodafone und O2-Betreiber Telef\u00f3nica verzeichneten vor al\u2026 [+1813 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "espn",
+            "name": "ESPN"
+        },
+        "author": "Reuters",
+        "title": "Bloodied Mbapp\u00e9 exits France win over Austria",
+        "description": "France overcame the potentially difficult hurdle of an in-form Austria without too many scares on Monday as they got their Euro 2024 campaign up and running with a 1-0 victory courtesy of an own goal.",
+        "url": "https://www.espn.com/soccer/report/_/gameId/690580",
+        "urlToImage": "https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/soccer.png",
+        "publishedAt": "2024-06-17T21:10:24Z",
+        "content": "France delivered a 100th victory for manager Didier Deschamps as they beat a tenacious and well organised Austria side 1-0 in their opening Group D match at Euro 2024 but talisman Kylian Mbapp\u00e9 suffe\u2026 [+2463 chars]",
+        "sentiment": 0.19999999999999998
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "heise online"
+        },
+        "author": "Dr. Volker Zota",
+        "title": "Euro 2024: Hat der Video Assistant Referee D\u00e4nemark betrogen?\u200b",
+        "description": "Nach dem Achtelfinale des DFB-Teams gegen D\u00e4nemark hagelt es Kritik am Videobeweis: Einige fordern mehr Menschenverstand, andere halten die Technik f\u00fcr ungenau.",
+        "url": "https://www.heise.de/hintergrund/Euro-2024-Hat-der-Video-Assistant-Referee-Daenemark-betrogen-9783882.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/2/4/7/0/4/Unbenannt-89a0eea81439c85b.png",
+        "publishedAt": "2024-06-30T13:19:00Z",
+        "content": "Inhaltsverzeichnis\r\nDie Entscheidungen des Video Assistant Referees (VAR) bei der Fu\u00dfball-EM sorgen f\u00fcr hitzige Diskussionen. Im Achtelfinale zwischen Deutschland und D\u00e4nemark f\u00fchlte sich eine ganze \u2026 [+5933 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "heise online"
+        },
+        "author": "Frank Schr\u00e4er",
+        "title": "Montag: Starliner-R\u00fcckkehr weiterhin offen, Kritik am Euro-2024-Videobeweis",
+        "description": "Starliner noch l\u00e4nger im All + Kritik an VAR & Regeln + Internet-Inhalte als Freeware + Softwareentwickler als G\u00e4rtner + Interpol-Erfolg gegen Online-Betr\u00fcger",
+        "url": "https://www.heise.de/news/Montag-Starliner-Rueckkehr-weiterhin-offen-Kritik-am-Euro-2024-Videobeweis-9784149.html",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/2/4/8/4/0/monday-035f1d5145ee5c4a.webp",
+        "publishedAt": "2024-07-01T04:15:00Z",
+        "content": "Die urspr\u00fcnglich f\u00fcr rund eine Woche geplante Starliner-Mission wird mindestens anderthalb Monate dauern. Vor der R\u00fcckkehr sind weitere Tests erforderlich, erkl\u00e4rt die NASA. Im Falle eines medizinisc\u2026 [+6646 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "espn",
+            "name": "ESPN"
+        },
+        "author": "Reuters",
+        "title": "Spain rout Georgia to set up Germany quarterfinal",
+        "description": "Stylish Spain recovered from the shock of conceding an early own goal to eventually overrun a tireless and spirited Georgia 4-1 on Sunday and surge into a mouth-watering Euro 2024 quarter-final with Germany.",
+        "url": "https://www.espn.com/soccer/report/_/gameId/703934",
+        "urlToImage": "https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/soccer.png",
+        "publishedAt": "2024-06-30T21:05:40Z",
+        "content": "Three-time champions Spain survived an early scare to beat a spirited Georgia 4-1 on Sunday and reach the Euro 2024 quarterfinals, bringing an end to their opponent's fairytale run.\r\nLa Roja will mee\u2026 [+1754 chars]",
+        "sentiment": 0.48
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Child, 13, among 40 arrests at TRNSMT festival",
+        "description": "Police say those arrested in and around Glasgow Green have been charged with breach of the peace, disorder and minor assaults.",
+        "url": "https://www.bbc.com/news/articles/cye04z9erdro",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7a73/live/574c2d40-42a2-11ef-b83f-157e38fc9c03.jpg",
+        "publishedAt": "2024-07-15T11:56:41Z",
+        "content": "A 13-year-old was among 40 people arrested over the three-day TRNSMT music festival.\r\nPolice Scotland said officers made 21 arrests at the Glasgow Green event and 19 near the entrance.\r\nAround 50,000\u2026 [+1291 chars]",
+        "sentiment": -0.125
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "Callum Matthews",
+        "title": "Van Gerwen beats Littler in World Matchplay first round",
+        "description": "Three-time winner Michael van Gerwen beats teenager Luke Littler 10-6 in the opening round of the World Matchplay in Blackpool.",
+        "url": "https://www.bbc.com/sport/darts/articles/cd1xqxxvpklo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/bd3e/live/81cc6aa0-42eb-11ef-8dc8-ffb8f2e9a771.jpg",
+        "publishedAt": "2024-07-15T20:57:37Z",
+        "content": "Elsewhere, number three seed Michael Smith beat Gary Anderson 10-5 to progress. \r\nSmith, world champion in 2023, suffered a double early break but then won seven legs on the spin to take control.\r\nTh\u2026 [+938 chars]",
+        "sentiment": -0.2
+    },
+    {
+        "source": {
+            "id": "espn",
+            "name": "ESPN"
+        },
+        "author": "ESPN News Services",
+        "title": "Nagelsmann fumes at handball rule, wants AI help",
+        "description": "Germany manager Julian Nagelsmann has railed against the decision not to award his side a handball in Friday's Euro 2024 quarterfinal defeat to Spain that saw the hosts exit the competition.",
+        "url": "https://www.espn.com/soccer/story/_/id/40502234/euro-2024-germany-julian-nagelsmann-fumes-handball-call",
+        "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0705%2Fr1354963_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-07-05T21:20:04Z",
+        "content": "Germany manager Julian Nagelsmann has railed against the decision not to award his side a handball in Friday's Euro 2024 quarterfinal defeat to Spain that saw the hosts exit the competition.\r\nGermany\u2026 [+2614 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "heise online"
+        },
+        "author": "Dr. Volker Zota",
+        "title": "Euro 2024: Nagelsmann fordert KI-Einsatz bei Handspiel-Entscheidungen\u200b",
+        "description": "Nach dem EM-Aus gegen Spanien kritisiert der deutsche Bundestrainer die Bewertung strittiger Situationen und schl\u00e4gt KI-Technologie als L\u00f6sung vor.",
+        "url": "https://www.heise.de/news/Euro-2024-Nagelsmann-fordert-KI-Einsatz-bei-Handspiel-Entscheidungen-9791938.html",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/2/8/9/4/2/EM-Hand-3K-9b20f35217ab2e87.png",
+        "publishedAt": "2024-07-06T08:30:00Z",
+        "content": "Bundestrainer Julian Nagelsmann hat nach dem Ausscheiden der deutschen Nationalmannschaft im EM-Viertelfinale gegen Spanien den Einsatz von k\u00fcnstlicher Intelligenz (KI) zur Bewertung von Handspielen \u2026 [+2082 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Kevin Lynch",
+        "title": "Copa America 2024 Soccer: Livestream Mexico vs. Ecuador From Anywhere",
+        "description": "It's do-or-die for El Tri at State Farm Stadium.",
+        "url": "https://www.cnet.com/tech/services-and-software/copa-america-2024-soccer-livestream-mexico-vs-ecuador-from-anywhere/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/79d3c7da2f909d47d5093d21d01a34e82672e560/hub/2024/06/30/4df0cc0f-efcf-4ff3-bcc6-2a0a00a026c2/gettyimages-2157498618.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2024-06-30T23:45:03Z",
+        "content": "A spot in the\u00a02024 Copa America\u00a0quarterfinals is at stake today as Mexico take on Ecuador in this crucial Group B clash at State Farm Stadium.\u00a0\r\nCurrently on three points thanks to their win over Jam\u2026 [+4952 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Kevin Lynch",
+        "title": "Copa America 2024 Soccer: Livestream Paraguay vs. Brazil From Anywhere",
+        "description": "The Sele\u00e7\u00e3o look to register their first win of the tournament in Las Vegas.",
+        "url": "https://www.cnet.com/tech/services-and-software/copa-america-2024-soccer-livestream-paraguay-vs-brazil-from-anywhere/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/0b96902ddcad1cb57e21bd920bd371828d0aeeda/hub/2024/06/28/75df88e1-1bab-4567-938f-593a0d58d0aa/gettyimages-2158555769.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2024-06-28T22:00:21Z",
+        "content": "Brazil continue their\u00a02024 Copa America\u00a0campaign on Friday as they take on Paraguay at Allegiant Stadium.\u00a0\r\nDespite boasting a forward line of Vin\u00edcius J\u00fanior, Rodrygo and Raphinha, the Sele\u00e7\u00e3o slump\u2026 [+5027 chars]",
+        "sentiment": 0.525
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Could maths help in taking the perfect penalty?",
+        "description": "Taking a penalty is an art, but Billy Watson says he has found a way to turn it into a science.",
+        "url": "https://www.bbc.com/news/articles/cjm9ep377mxo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9b6a/live/d30d7810-3d09-11ef-a044-9d4367d5b599.jpg",
+        "publishedAt": "2024-07-10T00:42:58Z",
+        "content": "By\u00a0Charlie Haynes,\u00a0BBC News, East Midlands\r\nBilly Watson went down to Basford United Academy to put his theories on penalties to the test \r\nPenalties the word has long struck fear in the hearts of En\u2026 [+3513 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "le-monde",
+            "name": "Le Monde"
+        },
+        "author": "Assma Maad et Gr\u00e9gor Brandy",
+        "title": "En direct, Espagne-Allemagne\u00a0: suivez le quart de finale de l\u2019Euro 2024",
+        "description": "Allemands et Espagnols vont se disputer une place en demi-finale dans cette \u00ab\u00a0finale\u00a0\u00bb avant l\u2019heure, entre les deux \u00e9quipes les plus impressionnantes de cet Euro\u00a02024.",
+        "url": "https://www.lemonde.fr/sport/live/2024/07/05/en-direct-espagne-allemagne-suivez-le-quart-de-finale-de-l-euro-2024_6247205_3242.html",
+        "urlToImage": "https://img.lemde.fr/2024/07/03/250/0/3000/1500/1440/720/60/0/a00674e_1719999061901-live-espagne-allemagne.jpg",
+        "publishedAt": "2024-07-05T14:00:06Z",
+        "content": "Bienvenue dans ce direct consacr\u00e9 au premier quart de finale de lEuro 2024, opposant lEspagne \u00e0 lAllemagne.\r\nDe quoi sagit-il\u00a0? Du d\u00e9but des quarts de finale de lEuro\u00a02024 et dune \u00ab\u00a0finale\u00a0\u00bb avant lh\u2026 [+1746 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "le-monde",
+            "name": "Le Monde"
+        },
+        "author": "Denis M\u00e9n\u00e9trier",
+        "title": "Euro 2024\u00a0: Willy Sagnol, s\u00e9lectionneur et h\u00e9ros d\u2019une \u00e9quipe g\u00e9orgienne novice dans le tournoi",
+        "description": "Le Fran\u00e7ais est parvenu \u00e0 qualifier la G\u00e9orgie qui dispute, mardi contre la Turquie, le premier match de son histoire \u00e0 l\u2019Euro. Une cons\u00e9cration pour l\u2019ancien Bleu, qui a r\u00e9ussi son pari entam\u00e9 en 2020 apr\u00e8s la pand\u00e9mie de Covid-19.",
+        "url": "https://www.lemonde.fr/sport/article/2024/06/18/euro-2024-willy-sagnol-selectionneur-et-heros-d-une-equipe-georgienne-novice-dans-le-tournoi_6241074_3242.html",
+        "urlToImage": "https://img.lemde.fr/2024/06/09/134/0/4500/3000/1440/960/60/0/94859c8_5732921-01-06.jpg",
+        "publishedAt": "2024-06-18T12:00:11Z",
+        "content": "Willy Sagnol lors du match amical entre la G\u00e9orgie et le Mont\u00e9n\u00e9gro, le 9\u00a0juin 2024. SAVO PRELEVIC / AFP\r\nWilly Sagnol na pas encore disput\u00e9 le moindre match lors dun Euro comme s\u00e9lectionneur, pourta\u2026 [+2807 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "le-monde",
+            "name": "Le Monde"
+        },
+        "author": "Aude Lasjaunias",
+        "title": "Euro 2024\u00a0: Cristiano Ronaldo de retour en gr\u00e2ce avec la s\u00e9lection portugaise",
+        "description": "A 39\u00a0ans et en d\u00e9pit de son exil en Arabie saoudite, le quintuple Ballon d\u2019or reste une pi\u00e8ce ma\u00eetresse du collectif de Roberto Martinez, au moment o\u00f9 la Sele\u00e7ao d\u00e9marre son tournoi, mardi, face \u00e0 la R\u00e9publique tch\u00e8que.",
+        "url": "https://www.lemonde.fr/football/article/2024/06/18/euro-2024-cristiano-ronaldo-de-retour-en-grace-avec-la-selection-portugaise_6241106_1616938.html",
+        "urlToImage": "https://img.lemde.fr/2024/06/11/0/7/3460/2307/1440/960/60/0/8992c6c_2024-06-11t205257z-42074297-up1ek6b1kq5dw-rtrmadp-3-soccer-friendly-por-irl-report.JPG",
+        "publishedAt": "2024-06-18T15:00:12Z",
+        "content": "Cristiano Ronaldo lors du match de pr\u00e9paration \u00e0 lEuro entre le Portugal et lIrlande, au stade municipal dAveiro, au Portugal, le 11\u00a0juin\u00a02024. RODRIGO ANTUNES / REUTERS\r\nOn lavait quitt\u00e9 dans une gr\u2026 [+2562 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "le-monde",
+            "name": "Le Monde"
+        },
+        "author": "Alexis Delcambre",
+        "title": "Euro 2024\u00a0: sans calcul, l\u2019Allemagne arrache le nul contre la Suisse et affiche sa confiance",
+        "description": "Les deux \u00e9quipes sont qualifi\u00e9es pour les huiti\u00e8mes de finale apr\u00e8s leur match nul (1-1), dimanche \u00e0 Francfort. L\u2019Allemagne pourrait h\u00e9riter d\u2019un menu relev\u00e9 pour sa seconde partie de tournoi.",
+        "url": "https://www.lemonde.fr/sport/article/2024/06/24/euro-2024-sans-calcul-l-allemagne-arrache-le-nul-contre-la-suisse-et-affiche-sa-confiance_6242979_3242.html",
+        "urlToImage": "https://img.lemde.fr/2024/06/23/0/23/2310/1540/1440/960/60/0/cf5e9cf_2024-06-23t222312z-300109397-rc28h8azchz2-rtrmadp-3-soccer-euro-swi-ger-report.JPG",
+        "publishedAt": "2024-06-23T23:19:45Z",
+        "content": "Le but de Niclas F\u00fcllkrug lors du match de lEuro 2024\u00a0Allemagne-Suisse, \u00e0 Francfort, le 23\u00a0juin 2024. WOLFGANG RATTAY / REUTERS\r\nLAllemagne na pas voulu \u00eatre calculatrice. En allant chercher dans les\u2026 [+2737 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "le-monde",
+            "name": "Le Monde"
+        },
+        "author": "Denis M\u00e9n\u00e9trier",
+        "title": "Euro 2024\u00a0: contre la France, la Pologne veut d\u00e9j\u00e0 pr\u00e9parer l\u2019apr\u00e8s",
+        "description": "La Pologne, \u00e9limin\u00e9e apr\u00e8s deux d\u00e9faites, n\u2019a pas pr\u00e9vu de rendre la t\u00e2che facile \u00e0 la France, mardi. Le retour de Robert Lewandowski devrait l\u2019y aider, alors que la s\u00e9lection traverse une p\u00e9riode de transition.",
+        "url": "https://www.lemonde.fr/sport/article/2024/06/25/euro-2024-contre-la-france-la-pologne-veut-deja-preparer-l-apres_6243622_3242.html",
+        "urlToImage": "https://img.lemde.fr/2024/06/21/0/0/4164/2776/1440/960/60/0/144946a_5851395-01-06.jpg",
+        "publishedAt": "2024-06-25T12:00:07Z",
+        "content": "Robert Lewandowski lors du match entre la Pologne et lAutriche \u00e0 lEuro 2024\u00a0\u00e0 Berlin, le 21\u00a0juin\u00a02024. FABRICE COFFRINI / AFP\r\nLes Blanc et Rouge ne simaginaient pas en canards boiteux de lEuro 2024.\u2026 [+2583 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "le-monde",
+            "name": "Le Monde"
+        },
+        "author": "Denis M\u00e9n\u00e9trier",
+        "title": "Euro 2024\u00a0: avec assurance, l\u2019Allemagne \u00e9carte le Danemark et se qualifie pour les quarts de finale",
+        "description": "A l\u2019issue d\u2019un match interrompu en premi\u00e8re p\u00e9riode par la pluie et l\u2019orage qui ont frapp\u00e9 Dortmund, la Mannschaft a rassur\u00e9 sur sa capacit\u00e9 \u00e0 \u00e9lever son niveau de jeu en phase \u00e0 \u00e9limination directe, \u00e0 la faveur de sa victoire contre le Danemark (2-0).",
+        "url": "https://www.lemonde.fr/sport/article/2024/06/30/euro-2024-avec-assurance-l-allemagne-ecarte-le-danemark-et-se-qualifie-pour-les-quarts-de-finale_6245464_3242.html",
+        "urlToImage": "https://img.lemde.fr/2024/06/29/21/0/3647/2431/1440/960/60/0/15355e5_2024-06-29t213507z-2005473349-up1ek6t1nyheq-rtrmadp-3-soccer-euro-ger-dnk-report.JPG",
+        "publishedAt": "2024-06-29T23:17:27Z",
+        "content": "Les joueurs allemands c\u00e9l\u00e8brent leur victoire contre le Danemark lors de lEuro au Signal Iduna Park de Dortmund, le 29\u00a0juin\u00a02024. BERNADETT SZABO / REUTERS\r\nIl y a dix-huit ans, le 4\u00a0juillet\u00a02006, le\u2026 [+2715 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "le-monde",
+            "name": "Le Monde"
+        },
+        "author": "Aude Lasjaunias",
+        "title": "Euro 2024\u00a0: au bout du suspense, le Portugal rejoint la France en quarts de finale",
+        "description": "Dominatrice face \u00e0 la Slov\u00e9nie, la S\u00e9le\u00e7ao a d\u00fb patienter jusqu\u2019aux tirs au but pour composter son billet pour la suite de la comp\u00e9tition. Elle doit sa qualification \u00e0\u00a0l\u2019incroyable performance de son gardien, Diogo Costa.",
+        "url": "https://www.lemonde.fr/sport/article/2024/07/02/euro-2024-au-bout-du-suspense-le-portugal-rejoint-la-france-en-quarts-de-finale_6245911_3242.html",
+        "urlToImage": "https://img.lemde.fr/2024/07/01/0/75/4846/3231/1440/960/60/0/81f0c27_2024-07-01t222819z-615499073-up1ek711ojb6i-rtrmadp-3-soccer-euro-por-svn-report.JPG",
+        "publishedAt": "2024-07-02T00:15:05Z",
+        "content": "Le gardien portugais Diogo Costa et ses co\u00e9quipiers c\u00e9l\u00e8brent leur victoire sur la Slov\u00e9nie, apr\u00e8s la s\u00e9ance de tirs au but, en huiti\u00e8me de finale de lEuro 2024 de football, \u00e0 Francfort (Allemagne), \u2026 [+2813 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "le-monde",
+            "name": "Le Monde"
+        },
+        "author": "Aude Lasjaunias",
+        "title": "Euro 2024\u00a0: l\u2019Allemagne s\u2019offre un ticket pour la suite et un moment d\u2019all\u00e9gresse",
+        "description": "En battant la Hongrie (2-0), mercredi, la Mannschaft est assur\u00e9e de disputer les huiti\u00e8mes de finale du championnat d\u2019Europe des nations. Elle a surtout r\u00e9ussi \u00e0 embarquer avec elle le public allemand.",
+        "url": "https://www.lemonde.fr/sport/article/2024/06/19/euro-2024-l-allemagne-s-offre-un-ticket-pour-la-suite-et-un-moment-d-allegresse_6241498_3242.html",
+        "urlToImage": "https://img.lemde.fr/2024/06/19/0/0/3543/2362/1440/960/60/0/283b16f_eae341f2e7a84e22a7a88ec52cb7c0dd-0-9b996ac1091547cb82aa4e19568c689e.jpg",
+        "publishedAt": "2024-06-19T20:24:01Z",
+        "content": "Le s\u00e9lectionneur allemand Julian Nagelsmann serre la main de Jamal Musiala apr\u00e8s le match du groupe A contre la Hongrie, \u00e0 Stuttgart, le 19 juin 2024. ANGELIKA WARMUTH / REUTERS\r\nStuttgart, \u00ab\u00a0ville n\u2026 [+2894 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "le-monde",
+            "name": "Le Monde"
+        },
+        "author": "Denis M\u00e9n\u00e9trier",
+        "title": "Euro 2024\u00a0: malgr\u00e9 une courte victoire, l\u2019Espagne impressionne et donne une le\u00e7on \u00e0 l\u2019Italie",
+        "description": "L\u2019Espagne s\u2019est qualifi\u00e9e pour les huiti\u00e8mes de finale de la comp\u00e9tition, jeudi, gr\u00e2ce \u00e0 son succ\u00e8s contre l\u2019Italie (1-0). La Nazionale, qui se veut joueuse, a subi la loi d\u2019une Roja qui ne peut plus cacher son statut de candidat cr\u00e9dible \u00e0 la victoire finale\u2026",
+        "url": "https://www.lemonde.fr/sport/article/2024/06/21/euro-2024-malgre-une-courte-victoire-l-espagne-impressionne-et-donne-une-lecon-a-l-italie_6241868_3242.html",
+        "urlToImage": "https://img.lemde.fr/2024/06/20/0/0/6066/4044/1440/960/60/0/90fbc95_5842805-01-06.jpg",
+        "publishedAt": "2024-06-21T00:33:18Z",
+        "content": "Les joueurs espagnols lors du match de lEuro contre lItalie au stade de Gelsenkirchen, le 20\u00a0juin 2024. PATRICIA DE MELO MOREIRA / AFP\r\nQuand le roi r\u00e9clame, ses sujets sex\u00e9cutent. Dans les tribunes \u2026 [+2721 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "le-monde",
+            "name": "Le Monde"
+        },
+        "author": "Alexis Delcambre",
+        "title": "Euro\u00a02024\u00a0: avec Lukaku et De\u00a0Bruyne, la vieille garde ranime la Belgique",
+        "description": "Mal en point apr\u00e8s avoir perdu son premier match, et malgr\u00e9 un nouveau but refus\u00e9 par la VAR, la s\u00e9lection belge s\u2019est relanc\u00e9e en battant la Roumanie (2-0), samedi soir \u00e0 Cologne, notamment gr\u00e2ce \u00e0 ses deux leaders offensifs.",
+        "url": "https://www.lemonde.fr/sport/article/2024/06/23/euro-2024-avec-lukaku-et-de-bruyne-la-vieille-garde-ranime-la-belgique_6242582_3242.html",
+        "urlToImage": "https://img.lemde.fr/2024/06/22/0/1/5029/3353/1440/960/60/0/b7ecefe_5864404-01-06.jpg",
+        "publishedAt": "2024-06-22T23:51:28Z",
+        "content": "Les joueurs belges Amadou Onana, Kevin De Bruyne et Romelu Lukaku apr\u00e8s leur victoire lors du match de lEuro 2024 Belgique-Roumanie, \u00e0 Cologne (Allemagne), le 22 juin 2024. ALBERTO PIZZOLI / AFP\r\nUn \u2026 [+2979 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "le-monde",
+            "name": "Le Monde"
+        },
+        "author": "Mouna El Mokhtari, Florian Lef\u00e8vre et Denis M\u00e9n\u00e9trier",
+        "title": "En direct, Euro 2024\u00a0: Angleterre-Slovaquie, suivez le huiti\u00e8me de finale",
+        "description": "Parmi les favoris de la comp\u00e9tition, mais d\u00e9cevants au premier tour, les Three Lions rencontrent les Slovenski Sokoli en huiti\u00e8mes de finale de l\u2019Euro 2024, dimanche, \u00e0 18\u00a0heures, \u00e0 Gelsenkirchen.",
+        "url": "https://www.lemonde.fr/sport/live/2024/06/30/en-direct-euro-2024-angleterre-slovaquie-suivez-le-huitieme-de-finale_6245542_3242.html",
+        "urlToImage": "https://img.lemde.fr/2024/06/27/44/0/3000/1500/1440/720/60/0/f25af71_1719495245943-live-angleterre-slovaquie.jpg",
+        "publishedAt": "2024-06-30T14:00:02Z",
+        "content": "Bienvenue dans ce direct consacr\u00e9 au match de football opposant lAngleterre et la Slovaquie, comptant pour les huiti\u00e8mes de finale de lEuro 2024\u00a0masculin, une comp\u00e9tition qui se tient en Allemagne ju\u2026 [+1503 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "le-monde",
+            "name": "Le Monde"
+        },
+        "author": "Aude Lasjaunias",
+        "title": "Euro 2024\u00a0: la Turquie, qualifi\u00e9e pour la suite du tournoi, prolonge le \u00ab\u00a0sommerm\u00e4rchen\u00a0\u00bb de ses supporteurs",
+        "description": "Tombeurs de la R\u00e9publique tch\u00e8que (3-2), les Bizim \u00c7ocuklar acc\u00e8dent aux huiti\u00e8mes de finale d\u2019une comp\u00e9tition internationale pour la premi\u00e8re fois depuis 2008. Un moment \u00ab\u00a0historique\u00a0\u00bb que leurs fans ont savour\u00e9 dans la fan-zone d\u2019Hambourg.",
+        "url": "https://www.lemonde.fr/sport/article/2024/06/27/euro-2024-la-turquie-qualifiee-pour-la-suite-du-tournoi-prolonge-le-sommermarchen-de-ses-supporteurs_6244335_3242.html",
+        "urlToImage": "https://img.lemde.fr/2024/06/26/163/0/4032/2688/1440/960/60/0/471de02_1719443822208-img-0737.jpg",
+        "publishedAt": "2024-06-27T01:45:31Z",
+        "content": "Dans la fan-zone dHambourg, lors du match du groupe F de lEuro 2024\u00a0entre la Turquie et la R\u00e9publique tch\u00e8que, le 26\u00a0juin 2024. LE MONDE\r\nComment dit-on sommerm\u00e4rchen (\u00ab\u00a0conte d\u00e9t\u00e9\u00a0\u00bb, cette p\u00e9riode d\u2026 [+2880 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "le-monde",
+            "name": "Le Monde"
+        },
+        "author": "Alexis Delcambre",
+        "title": "Euro 2024\u00a0: face aux Pays-Bas, la France veut tomber le masque",
+        "description": "Les Bleus affrontent les Oranje, vendredi \u00e0 21\u00a0heures Leipzig, pour son deuxi\u00e8me match de la comp\u00e9tition.\u00a0Avec ou sans Kylian Mbapp\u00e9\u00a0? Il faudra attendre l\u2019annonce de la composition des \u00e9quipes pour le savoir.",
+        "url": "https://www.lemonde.fr/sport/article/2024/06/21/euro-2024-face-aux-pays-bas-la-france-veut-tomber-le-masque_6241933_3242.html",
+        "urlToImage": "https://img.lemde.fr/2024/06/20/0/17/2028/1352/1440/960/60/0/f1aabb4_2024-06-20t173540z-1477851919-up1ek6k1cvee1-rtrmadp-3-soccer-euro-nld-fra-preview.JPG",
+        "publishedAt": "2024-06-21T05:00:10Z",
+        "content": "Le capitaine de l\u00e9quipe de France de football, Kylian Mbapp\u00e9, avec son masque,\u00a0\u00e0 Leipzig (Allemagne), le 20 juin 2024. LISI NIESNER / REUTERS\r\nAvec ou sans Kylian Mbapp\u00e9\u00a0? Il faudra attendre lannonce\u2026 [+5426 chars]",
+        "sentiment": 0.0
+    },
+    {
+        "source": {
+            "id": "le-monde",
+            "name": "Le Monde"
+        },
+        "author": "Aude Lasjaunias",
+        "title": "Euro 2024\u00a0:\u00a0l\u2019Italie, tenante du titre, \u00e9limin\u00e9e d\u2019un tournoi dans lequel elle n\u2019a jamais pes\u00e9",
+        "description": "Apr\u00e8s une phase de groupes d\u00e9cevante, les hommes de Luciano Spalletti ont \u00e9t\u00e9 s\u00e8chement battus par la Suisse (2-0), samedi, en huiti\u00e8me de finale de la comp\u00e9tition continentale.",
+        "url": "https://www.lemonde.fr/sport/article/2024/06/29/euro-2024-l-italie-tenante-du-titre-eliminee-d-un-tournoi-dans-lequel-elle-n-a-jamais-pese_6245455_3242.html",
+        "urlToImage": "https://img.lemde.fr/2024/06/29/0/0/4264/2842/1440/960/60/0/d675930_5936571-01-06.jpg",
+        "publishedAt": "2024-06-29T20:18:46Z",
+        "content": "Un supporter italien apr\u00e8s la d\u00e9faite de la Nazionale face \u00e0 la Suisse, en huiti\u00e8mes de finale de lEuro 2024, \u00e0 lOlympiastadion de Berlin, le 29 juin 2024. RONNY HARTMANN / AFP\r\nGianluigi Buffon avai\u2026 [+2697 chars]",
+        "sentiment": 0.0
+    }
+]

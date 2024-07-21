@@ -1,0 +1,47 @@
+/* SentimentAnalysis.css */
+.sentiment-container {
+    padding: 20px;
+  }
+  
+  .sentiment-header {
+    background-color: white; /* White background for the header */
+    padding: 10px; /* Add padding for spacing */
+    text-align: center; /* Center-align the text */
+    border-radius: 8px; /* Optional: rounded corners for a softer look */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow for better visibility */
+    margin-bottom: 20px; /* Space below the header */
+}
+
+  
+  .sentiment-box {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: 30%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .sentiment-image {
+    width: 100%;
+    border-radius: 4px;
+  }
+  
+  .sentiment-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
+  .sentiment-description {
+    font-size: 1rem;
+    margin: 10px 0;
+  }
+  
+  .sentiment-score {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #007bff;
+  }
+  

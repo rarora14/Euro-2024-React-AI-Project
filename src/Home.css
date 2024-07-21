@@ -1,0 +1,60 @@
+/* Home.css */
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 10vh; /* Adjusted for full height */
+  background: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+  padding: 20px;
+}
+
+.home-content {
+  display: flex;
+  align-items: center;
+  max-width: 1200px;
+  padding: 20px;
+  border-radius: 10px;
+  background: white; /* Solid white background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds shadow for better contrast */
+}
+
+.images-container {
+  display: flex;
+  flex-direction: column; /* Stack images vertically */
+  align-items: center;
+  margin-right: 20px; /* Space between images and text */
+}
+
+.coding-languages-image {
+  width: 200px; /* Same width as home-image */
+  height: auto;
+  margin-bottom: 20px; /* Space between the two images */
+}
+
+.home-image {
+  width: 200px; /* Keep the same size */
+  height: auto;
+}
+
+.home-text {
+  max-width: 600px; /* Adjust as needed */
+  text-align: left; /* Left-align text */
+}
+
+.home-text h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.home-text p {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.home-text ul {
+  padding-left: 20px; /* Ensures list bullets are properly aligned */
+}
+
+.home-text li {
+  margin-bottom: 5px; /* Increased space between list items */
+}
