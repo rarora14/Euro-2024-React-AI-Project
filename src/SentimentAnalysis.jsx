@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
-import './SentimentAnalysis.css'; // Import the CSS file
+import './SentimentAnalysis.css'; 
 
 const SentimentAnalysis = () => {
     const [articles, setArticles] = useState([]);

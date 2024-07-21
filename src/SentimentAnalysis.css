@@ -1,11 +1,10 @@
-/* SentimentAnalysis.css */
 .sentiment-container {
     padding: 20px;
   }
   
   .sentiment-header {
     background-color: white; /* White background for the header */
-    padding: 10px; /* Add padding for spacing */
+    padding: 10px; /* Added padding for spacing */
     text-align: center; /* Center-align the text */
     border-radius: 8px; /* Optional: rounded corners for a softer look */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow for better visibility */

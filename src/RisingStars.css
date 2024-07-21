@@ -44,8 +44,8 @@
   width: 100%;
   max-width: 300px; /* Adjust width as needed */
   height: 300px; /* Fixed height to maintain aspect ratio */
-  /* COULD DO Cover instead of contain, woould look better but image pixel issue*/
-  object-fit: cover; /* Ensure the image covers the fixed height and maintains aspect ratio */
+  /* COULD do Cover instead of contain, would look better but image pixel issue*/
+  object-fit: cover; /* Ensuring the image covers the fixed height and maintains aspect ratio */
   border-radius: 8px; /* Rounded corners */
 }
 

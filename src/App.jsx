@@ -6,7 +6,7 @@ import Results from './Results.jsx';
 import RisingStars from './RisingStars.jsx';
 import SentimentAnalysis from './SentimentAnalysis.jsx'; 
 import TopGoals from './TopGoals.jsx'; 
-import Home from './Home.jsx'; // Import Home component
+import Home from './Home.jsx'; 
 import euroTaskbarWording from './assets/euro-taskbar-wording.png';
 
 function App() {
@@ -55,13 +55,13 @@ function App() {
     const topTwoTeams = Object.values(groups).flatMap(group => group.slice(0, 2));
     const thirdPlaceTeams = Object.values(groups).flatMap(group => group.slice(2, 3));
 
-    // Sort third place teams by points
+    // Sorting third place teams by points
     thirdPlaceTeams.sort((a, b) => b.points - a.points);
 
-    // Select top 4 third place teams
+    // Selecting top 4 third place teams
     const topFourThirdPlaceTeams = thirdPlaceTeams.slice(0, 4);
 
-    // Include Slovenia if it's a tie
+    // Including Slovenia if it's a tie
     const sloveniaIndex = thirdPlaceTeams.findIndex(team => team.name === 'Slovenia');
     const hungaryIndex = thirdPlaceTeams.findIndex(team => team.name === 'Hungary');
 

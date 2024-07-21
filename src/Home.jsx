@@ -1,5 +1,5 @@
 import React from 'react';
-import './Home.css'; // Import the updated CSS file
+import './Home.css'; 
 import euroFrontPagePic from './assets/euro-frontpage-pic.jpg';
 import euroCodingLanguagesVisual from './assets/euro-coding-languages-visual.png';
 
